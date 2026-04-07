@@ -9,7 +9,7 @@ This project focuses on the comprehensive analysis of Smart City metrics to opti
 ***  Team Information
 **Team ID: SIC-25-26-TEAM412
 * **Project Name:** Smart City Data Analysis
-* **College/Institution:** [GOVT.COLLEGE FOR WOMEN(KARNAL]
+* **College/Institution:** [GOVT.COLLEGE FOR WOMEN(KARNAL)]
 
 **Team Members:**
 1. Member 1 Name : Ms. Renu Devi (Team Leader)
