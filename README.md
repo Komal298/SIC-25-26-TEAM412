@@ -1,6 +1,9 @@
 ** SIC-25-26-TEAM412
+
 PROJECT NAME :  Smart City Data Analysis Project
-**  Project Overview :
+
+
+Project Overview :
 This project focuses on the comprehensive analysis of Smart City metrics to optimize urban living standards and sustainability. By leveraging Big Data analytics and Predictive Modeling, we aim to identify patterns in resource usage, urban growth, and infrastructure efficiency to provide actionable insights for smarter urban planning.
 
 ***  Team Information
