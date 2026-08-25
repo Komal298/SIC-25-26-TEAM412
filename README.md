@@ -22,4 +22,4 @@ To clean, process, and visualize real-world city data in order to identify key t
 Developed as part of a 5-member team during Samsung Innovation Campus training (Dec 2025 – Feb 2026).
 
 ## Author
-Komal | BCA Graduate | Aspiring Data Analyst
+Komal | Data Lead | BCA Graduate | Aspiring Data Analyst
